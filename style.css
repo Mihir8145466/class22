@@ -1,0 +1,168 @@
+/* font-family: 'Work Sans', sans-serif; */
+
+
+.logoimg img {
+	width: 129px;
+}
+.menubaritem li a{
+    font-size: 22px;
+    padding:10px;
+}
+.menubaritem li{
+  
+    padding:10px;
+}
+img{
+    max-width: 100%;
+}
+.banner{
+    background-color: #F9F9FF;
+}
+.about-text {
+	margin-top: 164px;
+}
+.about-text h2 {
+	font-size: 39px;
+	padding: 16px 0px;
+}
+.about-text p {
+	font-size: 19px;
+	padding-bottom: 17px;
+    font-family: 'Work Sans', sans-serif;
+}
+    
+
+stong {
+	font-weight: 600;
+}
+.about-button {
+	background-color: #8491FF;
+	border: none;
+}
+.about2-text {
+	margin-top: 10px;
+}
+.about2-text p {
+	font-size: 18px;
+	font-family: 'Work Sans', sans-serif;
+}
+.about2-text h2 {
+	font-weight: 600;
+	font-size: 42px;
+}
+.number-section{
+	background-color: #8490FF;
+	padding:50px 0px;
+	text-align: center;
+	color:white;
+	margin-top: 20px;
+}
+/* buy */
+.buyappsection{
+	background-color: #F9F9FF;
+}
+.buyitem1 {
+	text-align: center;
+	background-color: white;
+
+
+	box-sizing: border-box;
+}
+.buynumber h1{
+
+}
+.buynumber {
+	width: 75px;
+	height: 76px;
+	margin: auto;
+	background-color: #dddd;
+	/* line-height: 16px; */
+	border-radius: 50%;
+	margin-top: 41px;
+}
+.buynumber h2 {
+	/* margin-top: 38px; */
+	padding-top: 14px;
+}
+
+.buyappsection h4 {
+	margin-top: 26px;
+}
+.buyappsection p {
+	line-height: 51px;
+}
+.buybutton {
+	/* padding-bottom: 48px; */
+	margin-bottom: 34px;
+}
+.buybutton:hover{
+	background-color: #007BFF;
+}
+.teamsection{
+	margin-top:100px;
+}
+.teamcard{
+	border:none;
+	box-shadow: 5px 5px 5px 5px;
+	text-align: center;
+	position: relative;
+}
+.teamcard h5 {
+	font-weight: 600;
+	font-size: 26px;
+	margin-top: 33px;
+}
+.teamcard span{}
+.teamcard p {
+	padding: 3px 0px;
+}
+.teamcard a {
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	background-color: #ddd;
+	padding: 3px 6px;
+}
+.teamcard a:hover {
+		box-shadow: 5px 6px 25px 2px black;
+	}
+	.imgpic img {
+		position: absolute;
+		top: -42px;
+		left: 14px;
+		width: 90px;
+	}
+
+	/* formsection */
+.formsection{
+	background-color: #F9F9FF;
+	padding:60px 0px;
+}
+.formdiv {
+	background-color: white;
+	padding: 31px;
+	box-shadow: 2px 2px 11px 2px;
+}
+.formdiv input {
+	margin-bottom: 22px;
+}
+.formbtn {
+	margin-top: 29px;
+	margin-left: 100px;
+	background-color: #17A2B8;
+	color: white;
+	border: none;
+}
+.formtext {
+	margin-top: 49px;
+	margin-left: 55px;
+}
+.footer{
+	background-color: #04091E;
+	text-align: center;
+
+}
+.footer p{
+	padding:30px 0px;
+	color:white;
+}
